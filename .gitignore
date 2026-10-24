@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Blender files / temp renders
+*.blend
+*.blend1
+*.blend2
+*.blend@
+*.log
+*.tmp
+
+# Development / QA artifacts (not part of the plugin)
+_qa/
+_qa_v11/
+_qa_v12/
+_qa_v13/
+_research/
+
+# Original user notes (not part of the add-on)
+新建 文本文档.txt
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
